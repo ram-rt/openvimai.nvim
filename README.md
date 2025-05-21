@@ -4,7 +4,7 @@ A context-aware AI assistant for Neovim, powered by OpenAI and a local FastAPI p
 
 OpenVimAI lets you interact with an LLM directly from Neovim. Features include inline completion, code explanation, comment generation, and a real-time chat popup — all streamed from a local proxy that manages caching, telemetry, and token budgeting.
 
-![OpenVimAI popup](https://your-screenshot-url.com)
+![OpenVimAI popup](https://github.com/user-attachments/assets/5b3f90b4-2897-4def-988a-0fa09f9d67b7)
 
 ## ✨ Features
 
